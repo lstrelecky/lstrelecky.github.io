@@ -1,6 +1,5 @@
 title: Lukas Strelecky
 url: "lstrelecky.github.io"
-baseurl: "/docs"
 
 footer: no
 footer_url: "https://github.com/ankitsultana"
@@ -16,7 +15,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/docs/"
+   link: ""
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
