@@ -1,11 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
-
-markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
-tracking_id: #
+title: Lukas Strelecky
+url: "lstrelecky.github.io"
+baseurl: "/docs"
 
 footer: no
 footer_url: "https://github.com/ankitsultana"
@@ -21,7 +16,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/docs/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
