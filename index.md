@@ -6,7 +6,9 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I'm a 3rd year undergraduate student at Brown University, where I study computer science on a pre-med track. My coursework is focused mainly on computer systems, computational biology, and chemistry. My research focuses on large-scale analysis clinical outcomes using statistical models. Outside of class, I spend most of my time volunteering in EMS. I also like weightlifting, distance running, and cooking.
+Hi! I'm a 3rd year undergraduate student at Brown University, where I study computer science on a pre-med track. My coursework is focused mainly on computer systems, computational biology, and chemistry. My research focuses on large-scale analysis of inpatient clinical outcomes using statistical models. Outside of class, I spend most of my time volunteering in EMS. I also like weightlifting, distance running, and cooking.
+
+For more information, feel free to get into touch with me via email.
 
 
 <!-- 

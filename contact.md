@@ -3,24 +3,8 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+1. Email: [lukas_strelecky@brown.edu](mailto:lukas_strelecky@brown.edum)
+2. [LinkedIn][https://www.linkedin.com/in/lukas-strelecky/]
+3. [Google Scholar](https://scholar.google.com/citations?user=y-22aDcAAAAJ&hl=en)
+4. [Orcid][https://orcid.org/0009-0006-7089-4507]
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
